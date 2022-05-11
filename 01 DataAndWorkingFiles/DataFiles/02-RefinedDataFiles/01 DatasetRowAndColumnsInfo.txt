@@ -1,0 +1,8 @@
+Crop: 1961 to 2020. (11056 x 30)
+Total Population 1961 to 2019. (12886 x 4)
+Environment Temperature 1961 to 2020 (13525 rows × 4)
+Emissions 1990 to 2019 (6941 × 6)
+Manure Applied (11094 x 4)
+FertilizerUse 1961 to 2019 (8443 × 6)
+InsecticidesPesticides 1990 to 2019 (9912 × 6)
+Livestock 1961 to 2019 (11042 × 4)
