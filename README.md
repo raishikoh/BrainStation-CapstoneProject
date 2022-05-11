@@ -1,6 +1,6 @@
 # BrainStation-CapstoneProject
 
-# My name Ali Sehpar Shikoh and this was my capstone project that was submitted for BrainStation's Data Science Diploma.
+My name Ali Sehpar Shikoh and this was my capstone project that was submitted for BrainStation's Data Science Diploma.
 
 # The project aimed to determine the influence of various parameters in the determination of crop yield.
 
