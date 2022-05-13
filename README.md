@@ -16,7 +16,7 @@ The project follow the following sequence:
 * _02 Report/_  - Contains the report for the capstone project.
 
 ## Notebooks
-### Raw dataset processing files:
+** Raw dataset processing files: **
 * 01-AtmosphericDeposition-RAW.ipynb
 * 02-BiologicalFixation-RAW.ipynb
 * 03-CropRemoval-RAW.ipynb
