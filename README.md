@@ -1,5 +1,5 @@
 # BrainStation-Capstone Project (Ali Sehpar Shikoh)
-# Investigation of Various Factors Influencing the Crop Yield Globally
+## Investigation of Various Factors Influencing the Crop Yield Globally
 
 This was my capstone project that was submitted for BrainStation's Data Science Diploma.
 
