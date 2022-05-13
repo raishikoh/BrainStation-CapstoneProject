@@ -11,23 +11,23 @@ The project follow the following sequence:
 3) Preprocess the data, implement various models, evaluate and later interpret the fitted models.
 
 ## Directories
-* _01 DataAndWorkingFiles/_  - 
-    * _DataFiles/_  - 
-* _02 Report/_  - 
+* _01 DataAndWorkingFiles/_  - Contains all the notebooks and data files.
+    * _DataFiles/_  - Contains all the raw and refined data files in CSV format.
+* _02 Report/_  - Contains the report for the capstone project.
 
 ## Notebooks
-* EDA.ipynb - 
-* 01-AtmosphericDeposition-RAW.ipynb - 
-* 02-BiologicalFixation-RAW.ipynb - 
-* 03-CropRemoval-RAW.ipynb - 
-* 04-Crops-RAW.ipynb - 
-* 05-FertilizerUse-RAW.ipynb - 
-* 06-Livestock-RAW.ipynb - 
-* 07-ManureApplied-RAW.ipynb - 
-* 08-Population-RAW.ipynb - 
-* 09-RoundwoodProduction-RAW.ipynb - 
-* 10-TemperatureChange-RAW.ipynb - 
-* 11-CombiningDataSets-AdditionalEDA.ipynb - 
-* 12-DataModelling.ipynb - 
-* 13-KeyFindings.ipynb - 
+*Raw dataset processing files:
+    * 01-AtmosphericDeposition-RAW.ipynb
+    * 02-BiologicalFixation-RAW.ipynb
+    * 03-CropRemoval-RAW.ipynb
+    * 04-Crops-RAW.ipynb
+    * 05-FertilizerUse-RAW.ipynb
+    * 06-Livestock-RAW.ipynb
+    * 07-ManureApplied-RAW.ipynb
+    * 08-Population-RAW.ipynb
+    * 09-RoundwoodProduction-RAW.ipynb
+    * 10-TemperatureChange-RAW.ipynb
+* 11-CombiningDataSets-AdditionalEDA.ipynb
+* 12-DataModelling.ipynb
+* 13-KeyFindings.ipynb
 
